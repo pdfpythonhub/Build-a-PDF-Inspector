@@ -17,8 +17,12 @@ By the end of this course, you will build a tool that can:
 - [01 - Install PyMuPDF in Google Colab](./01-install-pymupdf-google-colab)
 
 ---
+Pre-enrol for free here (https://payhip.com/b/Aj1iX) to receive each new tutorial by email as it's published and be notified when the complete course is released.
 
-Visit our website for all tutorials: [PDF Python Hub Tutorials](https://payhip.com/PDFPythonHub/blog/news)
+This tutorial originally appeared on PDF Python Hub (https://payhip.com/PDFPythonHub/blog/news)
+We publish beginner-friendly Python and PDF tutorials, complete learning paths, and Google Colab notebooks.
+
+
 
 
 
