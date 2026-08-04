@@ -12,7 +12,7 @@ By the end of this course, you will build a tool that can:
 - Display PDF Page Sizes
 - Extract Additional PDF Information
 
-## Course Modules
+## Course Tutorials
 
 - [01 - Install PyMuPDF in Google Colab](./01-install-pymupdf-google-colab)
 
