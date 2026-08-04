@@ -14,3 +14,6 @@ This tutorial prepares your environment for building a PDF Inspector with Python
 ## Related Tutorial
 
 [Read the full step-by-step tutorial on PDF Python Hub](https://payhip.com/PDFPythonHub/blog/news/how-to-install-pymupdf-in-google-colab-step-by-step-beginner-tutorial)
+
+## Next Tutorial
+Open Your First PDF
