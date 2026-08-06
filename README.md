@@ -22,7 +22,7 @@ By the end of this course, you will build a tool that can:
 
 [Pre-enrol for free here](https://payhip.com/b/Aj1iX) to receive each new tutorial by email as it's published and be notified when the complete course is released.
 
-This tutorial originally appeared on [PDF Python Hub](https://payhip.com/PDFPythonHub/blog/news).  
+These tutorials originally appeared on [PDF Python Hub](https://payhip.com/PDFPythonHub/blog/news).  
 We publish beginner-friendly Python and PDF tutorials, complete learning paths, and Google Colab notebooks.
 
 
