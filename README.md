@@ -15,6 +15,7 @@ By the end of this course, you will build a tool that can:
 ## Course Tutorials
 
 - [01 - Install PyMuPDF in Google Colab](./01-install-pymupdf-google-colab)
+- [02 - Open PDF with PyMuPDF](./02-open-pdf-with-pymupdf)
 
 ---
 
