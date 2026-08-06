@@ -12,5 +12,5 @@ How to verify the installation.
 
 ## Related Tutorial
 
-[Read the full step-by-step tutorial on PDF Python Hub](https://payhip.com/PDFPythonHub/blog/news/how-to-install-pymupdf-in-google-colab-step-by-step-beginner-tutorial)
+[Read the full step-by-step tutorial on PDF Python Hub](https://payhip.com/PDFPythonHub/blog/news/how-to-install-pymupdf-in-google-colab)
 
