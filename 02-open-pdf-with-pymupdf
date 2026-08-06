@@ -1,1 +1,23 @@
+# Open Your First PDF with PyMuPDF
+
+This tutorial prepares your environment for building a PDF Inspector with Python.
+
+## What You Will Learn
+
+How to upload a PDF file to Google Colab.
+How to use `files.upload()` to upload files.
+How to import modules using Python.
+What a function is and how to call one.
+How the assignment operator (`=`) stores values in variables.
+What strings are and why filenames are written in quotes.
+How `pymupdf.open()` opens a PDF document.
+What a Document object is.
+Why the opened PDF is stored in a variable called `doc`.
+How opening a PDF prepares it for future analysis.
+
+## Related Tutorial
+
+[Read the full step-by-step tutorial on PDF Python Hub](https://payhip.com/PDFPythonHub/blog/news/open-your-first-pdf-with-pymupdf)
+
+## Next Tutorial
 
