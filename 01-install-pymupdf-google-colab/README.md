@@ -4,12 +4,12 @@ This tutorial prepares your environment for building a PDF Inspector with Python
 
 ## What You Will Learn
 
-- What a Python library is.
-- What PyMuPDF is.
-- How to install PyMuPDF in Google Colab.
-- Why the package name is `pymupdf`.
-- What each part of the installation command means.
-- How to verify the installation.
+-How to install `pymupdf` in Google Colab.
+-What each part of the installation command means.
+-How to verify the installation.
+-What PyMuPDF is.
+-What a Python library is.
+-The difference between a package and a library.
 
 ## Related Tutorial
 
