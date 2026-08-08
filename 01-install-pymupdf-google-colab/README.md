@@ -3,7 +3,6 @@
 This tutorial prepares your environment for building a PDF Inspector with Python.
 
 ## What You Will Learn
-
 -How to install `pymupdf` in Google Colab.
 -What each part of the installation command means.
 -How to verify the installation.
