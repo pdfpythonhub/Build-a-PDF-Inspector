@@ -16,6 +16,8 @@ By the end of this course, you will build a tool that can:
 
 - [01 - Install PyMuPDF in Google Colab](./01-install-pymupdf-google-colab)
 - [02 - Open PDF with PyMuPDF](./02-open-pdf-with-pymupdf)
+- [03 - Count Pages in a PDF with PyMuPDF](./03-count-pages-in-pdf-with-pymupdf)
+  
 
 ---
 
